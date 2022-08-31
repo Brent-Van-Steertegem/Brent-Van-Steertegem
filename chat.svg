@@ -114,21 +114,21 @@
     @keyframes msg-5 {
       0% {
         opacity: 0;
-        transform: translate(10px, 245px);
+        transform: translate(10px, 269px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 240px);
+        transform: translate(10px, 264px);
       }
     }
     @keyframes msg-6 {
       0% {
         opacity: 0;
-        transform: translate(10px, 293px);
+        transform: translate(10px, 317px);
       }
       100% {
         opacity: 1;
-        transform: translate(10px, 288px);
+        transform: translate(10px, 312px);
       }
     }
     @media (prefers-color-scheme: dark) {
@@ -247,7 +247,7 @@
   </g>
 
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="439" height="66.1302" rx="18.0355" class="bubble" />
+    <rect width="330" height="66.1302" rx="18.0355" class="bubble" />
     <text x="15" y="27">I'm a student at Artevelde university</text>
     <text x="15" y="50">of applied sciences located in Ghent</text>
   </g>
@@ -271,9 +271,9 @@
   </g>
 
   <g transform="translate(10, 120)" class="msg-3">
-    <rect width="460" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm also a snowboarder</text>
-    <text x="15" y="50">and a fan of hard rock &amp; heavy metal</text>
+    <rect width="297" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I'm also a snowboarder and </text>
+    <text x="15" y="50">a fan of hard rock &amp; heavy metal</text>
   </g>
 
   <!-- typing 4 -->
@@ -295,15 +295,13 @@
   </g>
 
   <g transform="translate(10, 192)" class="msg-4">
-    <rect width="513" height="42" rx="18.0355" class="bubble" />
-    <text x="15" y="27">
-      You can find me on LinkedIn at
-      <a xlink:href="https://www.linkedin.com/in/brentvansteertegem">https://linkedin.com/in/brentvansteertegem</a>
-    </text>
+    <rect width="388" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">You can find me on LinkedIn at</text>
+    <text x="15" y="50"><a xlink:href="https://www.linkedin.com/in/brentvansteertegem">https://linkedin.com/in/brentvansteertegem</a></text>
   </g>
 
   <!-- typing 5 -->
-  <g transform="translate(10, 240)" class="typing-5">
+  <g transform="translate(10, 264)" class="typing-5">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -320,13 +318,13 @@
 
   </g>
 
-  <g transform="translate(10, 240)" class="msg-5">
-    <rect width="225" height="42" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 264)" class="msg-5">
+    <rect width="378" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Thanks for checking out my GitHub profile</text>
   </g>
 
   <!-- typing 6 -->
-  <g transform="translate(10, 288)" class="typing-6">
+  <g transform="translate(10, 312)" class="typing-6">
   <rect x="8.27246" width="69.7276" height="42" rx="20.9774" class="bubble" />
   <circle cx="13.591" cy="33.091" r="7.68185" class="bubble" />
   <circle cx="3.54547" cy="41.9547" r="3.54547" class="bubble" />
@@ -343,8 +341,8 @@
 
   </g>
 
-  <g transform="translate(10, 288)" class="msg-6">
-    <rect width="240" height="42" rx="18.0355" class="bubble" />
+  <g transform="translate(10, 312)" class="msg-6">
+    <rect width="174" height="42" rx="18.0355" class="bubble" />
     <text x="15" y="27">Have a great day!</text>  
   </g>
 </svg>
