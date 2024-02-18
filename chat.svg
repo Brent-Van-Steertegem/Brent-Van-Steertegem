@@ -247,9 +247,9 @@
   </g>
 
   <g transform="translate(10, 48)" class="msg-2">
-    <rect width="330" height="66.1302" rx="18.0355" class="bubble" />
-    <text x="15" y="27">I'm a student at Artevelde university</text>
-    <text x="15" y="50">of applied sciences located in Ghent</text>
+    <rect width="475" height="66.1302" rx="18.0355" class="bubble" />
+    <text x="15" y="27">I graduated at Artevelde university of Applied Sciences</text>
+    <text x="15" y="50">and currently work as a full-stack developer</text>
   </g>
 
   <!-- typing 3 -->
